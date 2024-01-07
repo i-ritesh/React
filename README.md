@@ -34,5 +34,5 @@ Props (optional): An object containing properties that will be passed to the ele
 Children (optional): The content or child elements of the created element.
 
 # What is the meaning of render and root?
-    Render: render refers to the process of creating a React element tree and displaying it on the screen.
-    Root: root usually refers to the root DOM element where our React application will be mounted. It's the top-level element in our HTML file where the React app is injected.
+Render: render refers to the process of creating a React element tree and displaying it on the screen.
+Root: root usually refers to the root DOM element where our React application will be mounted. It's the top-level element in our HTML file where the React app is injected.
